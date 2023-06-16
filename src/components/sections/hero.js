@@ -32,14 +32,14 @@ const StyledHeroSection = styled.section`
   }
 
   h2{
-    font-size: 80px;
+    font-size: 78px;
   }
 
   h3 {
     margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
-    font-size: 80px;
+    font-size: 79px;
   }
 
   p {
